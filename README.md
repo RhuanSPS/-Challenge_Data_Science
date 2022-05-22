@@ -48,3 +48,14 @@ verificar a existência de outliers e inconsitências, ter um primeiro entendime
  * Corrigir as inconsistências
  * Traduzir colunas
  * Criar Colunas de contas diárias
+
+## Semana 02
+
+Na segunda etapa, o foco é na análise gráfica das variáveis, analisar possíveis correlações, tendências e desvios. 
+
+### Atividades
+ * Analisar a variável target: Churn
+ * Visualizar a distribuição da variável target: Churn
+ * Criar visualizações relevantes em relação ao Churn
+ * Analisar a correlação das variáveis
+ * Testar diferentes tipos de gráficos 
